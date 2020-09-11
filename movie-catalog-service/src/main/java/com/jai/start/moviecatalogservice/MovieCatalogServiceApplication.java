@@ -12,6 +12,7 @@ public class MovieCatalogServiceApplication {
 		//Tst commit
 		//ff
 		//new branch
+		// new branch 1.2
 		
 	}
 
